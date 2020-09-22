@@ -1,0 +1,27 @@
+Morphex Programming Tools Version 3.0 Release Notes
+
+Written By: John Hall - Developer and President of Artix Software
+
+NOTE:This document is best viewed maximized with word-wrap on.
+
+Noticed Items:
+In Morphex, in order to get the desktop icons to dissapear upon the command button, you must be viewing the desktop. Otherwise the icons will remain on the desktop and you may not be able to get the function to work again unless you restart the program. Also, the URL may not work if you have not selected a default web browser or if you have and have not ever used it. These should be all the bugs in this program, but if you find more, kindly drop an email to Artix Software by emailing the developer giving the following information in this format:
+
+Email Message:
+
+Subject:(BRIEF DESCRIPTION OF PROBLEM)
+
+Dear Artix Software,
+
+NAME:(YOUR FIRST NAME ONLY)
+RETURN EMAIL ADDRESS:(YOUR PRIMARY EMAIL ADDRESS)
+DESCRIPTION OF PROBLEM:(GIVE A FULL DESCRIPTION OF THE PROBLEM)
+PROGRAMS RUNNING:(NOTE ANY PROGRAMS THAT WERE ALSO RUNNING)
+OPERATING SYSTEM:(SELECT IF YOU WERE USING WINDOWS 95/98)
+OTHER COMMENTS:(PLACE ANY OTHER COMMENTS HERE)
+
+Sincerely,
+
+(YOUR NAME)
+
+Thanks again for downloading Morphex Programming Tools Version 3.0 and please continue to use the Morphex line of software. Just go to http://www.Planet-Source-Code.com/vb/default.asp and search for Morphex. The current version of Morphex will be there. This is the current version of Morphex as of 1-26-2000.
